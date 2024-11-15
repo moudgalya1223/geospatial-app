@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moudgalya1223/geospatial-app/tree/master/static/css/main.e6c13ad2.css",
+    "main.js": "/moudgalya1223/geospatial-app/tree/master/static/js/main.80e32fe7.js",
+    "static/js/453.4b1adcba.chunk.js": "/moudgalya1223/geospatial-app/tree/master/static/js/453.4b1adcba.chunk.js",
+    "index.html": "/moudgalya1223/geospatial-app/tree/master/index.html",
+    "main.e6c13ad2.css.map": "/moudgalya1223/geospatial-app/tree/master/static/css/main.e6c13ad2.css.map",
+    "main.80e32fe7.js.map": "/moudgalya1223/geospatial-app/tree/master/static/js/main.80e32fe7.js.map",
+    "453.4b1adcba.chunk.js.map": "/moudgalya1223/geospatial-app/tree/master/static/js/453.4b1adcba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.80e32fe7.js"
+  ]
+}
